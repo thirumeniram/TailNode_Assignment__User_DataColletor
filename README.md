@@ -15,9 +15,7 @@ This project is designed to fetch users and their corresponding posts data from 
 
 - **Python**: 
 - **PostgreSQL**
-- **Requests**: 
-- **Beautiful Soup**: 
-- **psycopg2**: 
+
 
 
 ## Data Stored in ElephantSQL
