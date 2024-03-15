@@ -43,6 +43,6 @@ Follow these steps to set up and run the project:
     - pip install -r requirements.txt
    
 5. Run the application
-    - app.py
+    - python app.py
 
 
