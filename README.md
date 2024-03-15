@@ -39,6 +39,20 @@ users' post data
 The images above demonstrate the structured storage of scraped data.
 
 
+## Folder structure
+
+TailNode_Assignment_part_A_User_DataColletor/
+│
+├── config/
+│ └── postgres.py
+|
+|──controllers/
+│ └── user_controller.py
+│
+├── model/
+│ └── database.py
+│
+└── app.py
 
 
 ## Installation
