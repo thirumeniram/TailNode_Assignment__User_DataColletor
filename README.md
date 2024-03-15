@@ -9,16 +9,7 @@ This project is designed to fetch users and their corresponding posts data from 
 - Fetched users' data and stored it in the `new_users` table in the database.
 - Fetch each user's posts data and stored it in the `new_posts` table in the database.
 
-## Folder Structure
 
-src/
-   components/
-      App.js
-      TodoItem.js
-      AddTodo.js
-      Todos.js
-   index.js
-   index.css
 
 ## Installation
 
