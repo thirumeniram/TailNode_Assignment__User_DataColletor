@@ -35,14 +35,14 @@ Follow these steps to set up and run the project:
      - python -m venv venv
      - \venv\Scripts\activate
        
-   -For macOS/Linux:
+   - For macOS/Linux:
      - python3 -m venv venv
      - source venv/bin/activate
        
 4. Install Dependencies
-    -pip install -r requirements.txt
+    - pip install -r requirements.txt
    
 5. Run the application
-    -app.py
+    - app.py
 
 
