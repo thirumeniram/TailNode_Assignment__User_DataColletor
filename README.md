@@ -26,7 +26,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**
    
-    Clone the project to your local machine:https://github.com/thirumeniram/TailNode_Assignment__User_DataColletor.git2
+    Clone the project to your local machine:https://github.com/thirumeniram/TailNode_Assignment__Book_Scraper.git
   
 2. cd TailNode_Assignment_part_A_User_DataColleto
 
