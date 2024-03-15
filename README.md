@@ -10,6 +10,21 @@ This project is designed to fetch users and their corresponding posts data from 
 - Fetch each user's posts data and stored it in the `new_posts` table in the database.
 
 
+## Data Stored in ElephantSQL
+
+This section shows into how the scraped book data is organized and stored within the ElephantSQL database. The database schema includes tables for books, capturing attributes like name, price, availability, and ratings.
+
+Below are screenshots from the ElephantSQL database interface showing examples of the stored data:
+
+user data:
+
+![users data](https://github.com/thirumeniram/TailNode_Assignment__User_DataColletor/assets/66516937/0708f63f-200b-40dd-9654-b4657739ca30)
+
+users' post data
+
+![users' post data](https://github.com/thirumeniram/TailNode_Assignment__User_DataColletor/assets/66516937/b119dd06-6175-44dc-8d34-0a76c6c696bf)
+
+The images above demonstrate the structured storage of scraped data.
 
 ## Installation
 
