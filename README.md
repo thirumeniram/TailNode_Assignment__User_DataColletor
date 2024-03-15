@@ -40,20 +40,20 @@ The images above demonstrate the structured storage of scraped data.
 
 
 ## Folder structure
-
-TailNode_Assignment_part_A_User_DataColletor/
-- │
-- ├── config/
-- │ └── postgres.py
-- |
-- |──controllers/
-- │ └── user_controller.py
-- │
-- ├── model/
-- │ └── database.py
-- │
-- └── app.py
-
+<div>
+<p>TailNode_Assignment_part_A_User_DataColletor/</p>
+<p>- │</p>
+<p>- ├── config/</p>
+<p>- │ └── postgres.py</p>
+<p>- |</p>
+<p>- |──controllers/</p>
+<p>- │ └── user_controller.py</p>
+<p>- │</p>
+<p>- ├── model/</p>
+<p>- │ └── database.py</p>
+<p>  │</p>
+<p>  └── app.py</p>
+</div>
 
 ## Installation
 
