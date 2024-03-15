@@ -2,6 +2,8 @@
 
 This project is designed to fetch users and their corresponding posts data from [dummyapi.io](https://dummyapi.io/) and store it in a postgres database . 
 
+
+
 ## Functional Requirements implemented
 
 - Obtained an `app_id` by registering on the [dummyapi.io](https://dummyapi.io/) website.
@@ -10,9 +12,11 @@ This project is designed to fetch users and their corresponding posts data from 
 - Fetch each user's posts data and stored it in the `new_posts` table in the database.
 
 
+
+
 ## Data Stored in ElephantSQL
 
-This section shows into how the scraped book data is organized and stored within the ElephantSQL database. The database schema includes tables for books, capturing attributes like name, price, availability, and ratings.
+This section shows  how the scraped book data is organized and stored within the ElephantSQL database. The database schema includes tables for books, capturing attributes like name, price, availability, and ratings.
 
 Below are screenshots from the ElephantSQL database interface showing examples of the stored data:
 
@@ -25,6 +29,9 @@ users' post data
 ![users' post data](https://github.com/thirumeniram/TailNode_Assignment__User_DataColletor/assets/66516937/b119dd06-6175-44dc-8d34-0a76c6c696bf)
 
 The images above demonstrate the structured storage of scraped data.
+
+
+
 
 ## Installation
 
