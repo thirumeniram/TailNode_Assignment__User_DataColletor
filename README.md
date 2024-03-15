@@ -42,17 +42,17 @@ The images above demonstrate the structured storage of scraped data.
 ## Folder structure
 <div>
   <p>TailNode_Assignment_part_A_User_DataColletor/</p>
-  <div style="margin-left: 40px;">
+  <div style="margin-left:40px;">
     <p>config/</p>
-    <div style="margin-left: 20px;">
+    <div style="margin-left:20px;">
       <p>postgres.py</p>
     </div>
     <p>controllers/</p>
-    <div style="margin-left: 20px;">
+    <div style="margin-left:20px;">
       <p>user_controller.py</p>
     </div>
     <p>model/</p>
-    <div style="margin-left: 20px;">
+    <div style="margin-left:20px;">
       <p>database.py</p>
     </div>
     <p>app.py</p>
