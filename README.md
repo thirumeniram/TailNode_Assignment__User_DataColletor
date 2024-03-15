@@ -16,7 +16,11 @@ This project is designed to fetch users and their corresponding posts data from 
 
 ## Data Stored in ElephantSQL
 
-This section shows  how the scraped book data is organized and stored within the ElephantSQL database. The database schema includes tables for books, capturing attributes like name, price, availability, and ratings.
+- This section shows  how the scraped user and users' data is organized and stored within the ElephantSQL database.
+  
+- The user database schema includes tables for users ,capturing attributes like db_id, id, FirstName, LastName and picture.
+  
+- The users' post database schema includes tables for users' post, capturing attributes like db_id, post_id, user_id, text, like, publisheddate.
 
 Below are screenshots from the ElephantSQL database interface showing examples of the stored data:
 
