@@ -6,8 +6,8 @@ This project is designed to fetch users and their corresponding posts data from 
 
 - Obtained an `app_id` by registering on the [dummyapi.io](https://dummyapi.io/) website.
 - Used the provided `app_id` to authenticate API requests.
-- Fetched users' data and store it in the `new_users` table in the database.
-- Fetch each user's posts data and store it in the `new_posts` table in the database.
+- Fetched users' data and stored it in the `new_users` table in the database.
+- Fetch each user's posts data and stored it in the `new_posts` table in the database.
 
 ## Folder Structure
 
