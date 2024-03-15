@@ -9,7 +9,7 @@ This project is designed to fetch users and their corresponding posts data from 
 - Fetched users' data and store it in the `new_users` table in the database.
 - Fetch each user's posts data and store it in the `new_posts` table in the database.
 
-# Folder Structure
+## Folder Structure
 
 src/
    components/
