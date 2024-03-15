@@ -19,7 +19,7 @@ Follow these steps to set up and run the project:
    
     Clone the project to your local machine:https://github.com/thirumeniram/TailNode_Assignment__User_DataColletor.git
   
-2. cd TailNode_Assignment_part_A_User_DataColleto
+2. cd TailNode_Assignment_part_A_User_DataColletor
 
 3. Create and activate a virtual environment:
    - For Windows:
